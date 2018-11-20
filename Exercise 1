@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  <h1>Contact me</h1>
+     <nav>
+       <ul>
+         <li><a href=“#intro”>Intro</a></li>
+         <li><a href=“#social”>Social</a></li>
+         <li><a href=“#email”>Email</a></li>
+       </ul>
+     </nav>
+<section id=“intro”>
+  <h2>Introduction</h2>
+    <p>My name is Francis van Zutphen, born in Ndola, Zamvia in 1959. I have 1 sister and 5 brothers. We all live in the
+       Netherlands.</p>
+    <p>I was educasted in Zimbabwe, st. John’s Highschool, Avondale.
+</section>
+<section id=“social”>
+  <H2>Social media information</h2>
+    <p>I have accounts on the followking:
+    <ul>
+      <li>Facebook</li>
+      <li>Google</li>
+      <li>Instagram</li>
+      <li>LinkedIn</li>
+      <li>Twitter</li>
+    </ul>
+</section>
+<section id=“email>
+  <h2>Email</h2>
+</section>
+</body>
+</html>
